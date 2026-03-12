@@ -9,7 +9,7 @@
 
 If this repo helps you on your DSA journey, consider giving it a **star** — it keeps the motivation alive! 🌟
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/daily-dsa-challenge?style=social)](https://github.com/yourusername/daily-dsa-challenge)
+[![GitHub Stars](https://img.shields.io/github/stars/2004subrata/daily-dsa-challenge?style=social)](https://github.com/2004subrata/daily-dsa-challenge)
 
 ---
 
