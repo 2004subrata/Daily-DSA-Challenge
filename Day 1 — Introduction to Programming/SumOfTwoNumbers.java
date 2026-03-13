@@ -1,3 +1,5 @@
+// Sum of Two Numbers - Take two numbers as input and print their sum.
+
 import java.util.Scanner;
 
 public class SumOfTwoNumbers {

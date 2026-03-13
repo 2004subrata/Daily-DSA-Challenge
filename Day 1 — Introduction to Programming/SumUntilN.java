@@ -1,3 +1,5 @@
+//  Sum Until 'x' Keep taking numbers as input till the user enters x. After that, print the sum of all numbers entered.
+
 import java.util.Scanner;
 
 public class SumUntilN {
